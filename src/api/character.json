@@ -1,0 +1,32 @@
+{
+    "total": 23,
+    "charater": [
+        {
+            "name": "Gojo Satoru",
+            "age": 28,
+            "dateBirth": "7 December 1989",
+            "zodiac": "Sagittarius",
+            "eye": "blue",
+            "hair": "white",
+            "img": "https://s6.imgcdn.dev/FySK9.jpg"
+        },
+        {
+            "name": "Eren Jaeger",
+            "age": 19,
+            "dateBirth": "30 March 2001",
+            "zodiac": "Aries",
+            "eye": "green",
+            "hair": "brown",
+            "img": "https://s6.imgcdn.dev/FyGhD.webp"
+        },
+        {
+            "name": "Monkey D. Luffy",
+            "age": 19,
+            "dateBirth": "5 May 2001",
+            "zodiac": "Taurus",
+            "eye": "black",
+            "hair": "black",
+            "img": "https://s6.imgcdn.dev/FyrZy.jpg"
+        }
+    ]
+}
