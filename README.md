@@ -12,7 +12,7 @@ git clone https://github.com/EmhaHasyim/anime-chat
 ```
 2. Navigate to the project directory.
 ```
-cd anime-chat-website
+cd anime-chat
 ```
 3. Install the dependencies.
 ```
